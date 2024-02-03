@@ -219,24 +219,24 @@ def transform_data(path_to_dataWav,path_txt_info):
     
 
 
-if __name__ == "__main__":
-    path_txt_info = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
-    path_to_dataWav = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"
-    # load_in4(path_txt_info)
-    # info = transform_data(path_to_dataWav=path_to_dataWav,path_txt_info=path_txt_info)
-    # for key in info.keys():
-    #     print(info[key][0])
+# if __name__ == "__main__":
+#     path_txt_info = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
+#     path_to_dataWav = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"
+#     # load_in4(path_txt_info)
+#     # info = transform_data(path_to_dataWav=path_to_dataWav,path_txt_info=path_txt_info)
+#     # for key in info.keys():
+#     #     print(info[key][0])
 
-    # data_split_info = split_sets(info,[80,10,10])
-    # for i in data_split_info["train"]:
-    #     print(i)
-    # print(len(data_split_info["train"]))
-    # print(len(data_split_info["test"]))
-    # print(len(data_split_info["valid"]))
-    # create_json(data_split_info["test"],json_file_save)
+#     # data_split_info = split_sets(info,[80,10,10])
+#     # for i in data_split_info["train"]:
+#     #     print(i)
+#     # print(len(data_split_info["train"]))
+#     # print(len(data_split_info["test"]))
+#     # print(len(data_split_info["valid"]))
+#     # create_json(data_split_info["test"],json_file_save)
     
-    json_file_save_train = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json"
-    json_file_save_test = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json"
-    json_file_save_valid = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json"
+#     json_file_save_train = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json"
+#     json_file_save_test = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json"
+#     json_file_save_valid = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json"
      
-    prepare_data(path_to_dataWav,path_txt_info,json_file_save_train,json_file_save_valid,json_file_save_test)
+#     prepare_data(path_to_dataWav,path_txt_info,json_file_save_train,json_file_save_valid,json_file_save_test)
