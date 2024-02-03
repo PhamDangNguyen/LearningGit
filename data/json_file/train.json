@@ -1,0 +1,3137 @@
+{
+  "00106": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00106.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00108": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00231/00108.wav",
+    "length": 6.04,
+    "regions": "southern"
+  },
+  "00134": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00130/00134.wav",
+    "length": 13.24,
+    "regions": "northern"
+  },
+  "00038": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00038.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00007": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00157/00007.wav",
+    "length": 7.24,
+    "regions": "southern"
+  },
+  "00186": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00125/00186.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00042": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00308/00042.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00148": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00132/00148.wav",
+    "length": 13.64,
+    "regions": "southern"
+  },
+  "00155": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00168/00155.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00029": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00216/00029.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00178": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00044/00178.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00199": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00199.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00009": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00221/00009.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00095": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00095.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00112": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00112.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00015": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00060/00015.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00036": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00341/00036.wav",
+    "length": 10.44,
+    "regions": "southern"
+  },
+  "00096": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00058/00096.wav",
+    "length": 11.24,
+    "regions": "northern"
+  },
+  "00026": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00225/00026.wav",
+    "length": 20.04,
+    "regions": "southern"
+  },
+  "00017": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00031/00017.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00058": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00058.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00023": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00193/00023.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00325": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00325.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00043": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00297/00043.wav",
+    "length": 11.64,
+    "regions": "northern"
+  },
+  "00159": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00159.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00136": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00147/00136.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00004": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00322/00004.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00005": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00289/00005.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00035": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00142/00035.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00045": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00144/00045.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00070": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00182/00070.wav",
+    "length": 8.44,
+    "regions": "northern"
+  },
+  "00028": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00282/00028.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00062": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00279/00062.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00132": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00131/00132.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00034": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00034.wav",
+    "length": 11.24,
+    "regions": "southern"
+  },
+  "00069": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00284/00069.wav",
+    "length": 8.44,
+    "regions": "southern"
+  },
+  "00003": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00181/00003.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00082": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00309/00082.wav",
+    "length": 22.44,
+    "regions": "northern"
+  },
+  "00376": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00376.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00131": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00131.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00014": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00142/00014.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00046": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00269/00046.wav",
+    "length": 13.64,
+    "regions": "northern"
+  },
+  "00278": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00282/00278.wav",
+    "length": 10.44,
+    "regions": "southern"
+  },
+  "00423": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00423.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00091": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00208/00091.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00163": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00163.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00083": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00340/00083.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00074": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00223/00074.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00018": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00316/00018.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00118": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00130/00118.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00146": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00131/00146.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00208": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00118/00208.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00050": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00250/00050.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00361": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00361.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00130": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00168/00130.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00129": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00054/00129.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00008": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00232/00008.wav",
+    "length": 18.00025,
+    "regions": "southern"
+  },
+  "00011": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00207/00011.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00076": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00247/00076.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00012": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00259/00012.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00030": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00079/00030.wav",
+    "length": 8.04,
+    "regions": "northern"
+  },
+  "00158": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00158.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00176": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00114/00176.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00292": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00292.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00033": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00110/00033.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00259": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00259.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00429": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00429.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00088": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00129/00088.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00111": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00111.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00156": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00156.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00121": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00223/00121.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00052": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00055/00052.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00377": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00377.wav",
+    "length": 13.24,
+    "regions": "northern"
+  },
+  "00243": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00243.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00315": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00315.wav",
+    "length": 8.44,
+    "regions": "southern"
+  },
+  "00090": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00324/00090.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00049": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00304/00049.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00047": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00324/00047.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00025": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00140/00025.wav",
+    "length": 8.04,
+    "regions": "northern"
+  },
+  "00144": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00238/00144.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00054": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00200/00054.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00039": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00126/00039.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00051": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00060/00051.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00150": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00130/00150.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00067": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00222/00067.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00068": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00255/00068.wav",
+    "length": 12.44,
+    "regions": "northern"
+  },
+  "00065": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00317/00065.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00071": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00156/00071.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00185": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00344/00185.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00288": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00288.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00102": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00204/00102.wav",
+    "length": 7.24,
+    "regions": "southern"
+  },
+  "00289": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00289.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00097": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00204/00097.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00198": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00078/00198.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00060": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00262/00060.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00075": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00075.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00482": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00482.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00126": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00168/00126.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00055": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00215/00055.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00021": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00083/00021.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00059": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00212/00059.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00122": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00122.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00081": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00064/00081.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00079": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00078/00079.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00109": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00141/00109.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00147": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00026/00147.wav",
+    "length": 1.64,
+    "regions": "southern"
+  },
+  "00303": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00303.wav",
+    "length": 9.24,
+    "regions": "southern"
+  },
+  "00073": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00266/00073.wav",
+    "length": 0.84,
+    "regions": "southern"
+  },
+  "00638": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00638.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00161": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00189/00161.wav",
+    "length": 25.705375,
+    "regions": "northern"
+  },
+  "00006": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00119/00006.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00233": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00282/00233.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00165": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00054/00165.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00335": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00335.wav",
+    "length": 12.44,
+    "regions": "southern"
+  },
+  "00266": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00266.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00140": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00261/00140.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00485": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00485.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00048": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00041/00048.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00117": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00117.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00032": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00131/00032.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00085": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00309/00085.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00322": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00322.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00063": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00095/00063.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00002": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00197/00002.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00061": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00061.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00044": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00231/00044.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00000": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00285/00000.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00213": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00189/00213.wav",
+    "length": 13.9550625,
+    "regions": "northern"
+  },
+  "00179": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00070/00179.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00133": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00234/00133.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00210": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00118/00210.wav",
+    "length": 6.04,
+    "regions": "southern"
+  },
+  "00187": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00187.wav",
+    "length": 17.64,
+    "regions": "southern"
+  },
+  "00540": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00540.wav",
+    "length": 3.9005,
+    "regions": "northern"
+  },
+  "00053": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00309/00053.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00157": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00344/00157.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00260": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00260.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00040": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00281/00040.wav",
+    "length": 25.24,
+    "regions": "southern"
+  },
+  "00020": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00183/00020.wav",
+    "length": 8.44,
+    "regions": "southern"
+  },
+  "00024": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00276/00024.wav",
+    "length": 14.44,
+    "regions": "northern"
+  },
+  "00027": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00072/00027.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00510": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00510.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00094": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00094.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00151": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00078/00151.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00013": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00178/00013.wav",
+    "length": 4.44,
+    "regions": "southern"
+  },
+  "00135": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00054/00135.wav",
+    "length": 8.44,
+    "regions": "northern"
+  },
+  "00295": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00295.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00177": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00046/00177.wav",
+    "length": 12.44,
+    "regions": "northern"
+  },
+  "00267": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00267.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00195": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00066/00195.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00001": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00138/00001.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00010": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00088/00010.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00110": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00344/00110.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00197": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00197.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00228": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00228.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00175": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00175.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00016": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00031/00016.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00107": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00215/00107.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00141": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00046/00141.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00115": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00234/00115.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00188": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00125/00188.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00181": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00312/00181.wav",
+    "length": 9.64,
+    "regions": "southern"
+  },
+  "00226": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00226.wav",
+    "length": 8.44,
+    "regions": "southern"
+  },
+  "00227": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00227.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00180": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00165/00180.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00119": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00033/00119.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00104": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00104.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00173": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00173.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00192": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00192.wav",
+    "length": 10.84,
+    "regions": "southern"
+  },
+  "00225": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00282/00225.wav",
+    "length": 3.7861875,
+    "regions": "southern"
+  },
+  "00057": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00154/00057.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00229": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00229.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00103": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00229/00103.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00092": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00125/00092.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00242": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00242.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00086": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00222/00086.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00072": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00289/00072.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00169": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00241/00169.wav",
+    "length": 6.44,
+    "regions": "southern"
+  },
+  "00217": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00217.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00281": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00281.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00170": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00170.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00145": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00145.wav",
+    "length": 0.84,
+    "regions": "southern"
+  },
+  "00244": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00050/00244.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00031": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00307/00031.wav",
+    "length": 31.24,
+    "regions": "northern"
+  },
+  "00206": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00206.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00171": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00141/00171.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00344": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00344.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00207": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00207.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00056": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00139/00056.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00230": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00230.wav",
+    "length": 10.04,
+    "regions": "southern"
+  },
+  "00519": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00519.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00578": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00578.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00302": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00302.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00037": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00113/00037.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00087": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00337/00087.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00384": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00384.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00084": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00262/00084.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00310": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00310.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00251": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00161/00251.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00205": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00205.wav",
+    "length": 17.24,
+    "regions": "southern"
+  },
+  "00484": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00484.wav",
+    "length": 14.44,
+    "regions": "northern"
+  },
+  "00182": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00046/00182.wav",
+    "length": 17.24,
+    "regions": "northern"
+  },
+  "00183": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00244/00183.wav",
+    "length": 15.24,
+    "regions": "southern"
+  },
+  "00360": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00360.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00219": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00219.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00123": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00189/00123.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00101": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00312/00101.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00078": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00101/00078.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00316": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00316.wav",
+    "length": 11.64,
+    "regions": "northern"
+  },
+  "00253": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00253.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00455": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00455.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00116": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00087/00116.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00139": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00033/00139.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00019": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00144/00019.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00098": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00046/00098.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00100": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00275/00100.wav",
+    "length": 11.64,
+    "regions": "northern"
+  },
+  "00120": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00076/00120.wav",
+    "length": 17.64,
+    "regions": "northern"
+  },
+  "00022": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00164/00022.wav",
+    "length": 8.04,
+    "regions": "northern"
+  },
+  "00312": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00312.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00064": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00333/00064.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00162": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00091/00162.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00439": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00439.wav",
+    "length": 7.24,
+    "regions": "southern"
+  },
+  "00593": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00593.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00125": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00168/00125.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00224": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00312/00224.wav",
+    "length": 9.24,
+    "regions": "southern"
+  },
+  "00154": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00324/00154.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00234": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00234.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00221": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00221.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00099": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00060/00099.wav",
+    "length": 11.24,
+    "regions": "northern"
+  },
+  "00238": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00238.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00105": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00055/00105.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00307": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00307.wav",
+    "length": 11.21875,
+    "regions": "southern"
+  },
+  "00241": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00241.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00555": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00555.wav",
+    "length": 20.04,
+    "regions": "northern"
+  },
+  "00235": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00235.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00381": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00381.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00089": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00078/00089.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00250": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00135/00250.wav",
+    "length": 0.84,
+    "regions": "southern"
+  },
+  "00269": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00269.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00080": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00083/00080.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00204": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00321/00204.wav",
+    "length": 34.84,
+    "regions": "southern"
+  },
+  "00483": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00483.wav",
+    "length": 19.24,
+    "regions": "northern"
+  },
+  "00214": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00050/00214.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00350": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00350.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00160": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00066/00160.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00172": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00172.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00077": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00324/00077.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00285": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00165/00285.wav",
+    "length": 13.64,
+    "regions": "southern"
+  },
+  "00247": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00247.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00137": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00193/00137.wav",
+    "length": 11.64,
+    "regions": "southern"
+  },
+  "00093": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00055/00093.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00327": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00327.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00138": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00135/00138.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00232": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00232.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00305": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00305.wav",
+    "length": 6.44,
+    "regions": "southern"
+  },
+  "00284": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00284.wav",
+    "length": 4.84,
+    "regions": "southern"
+  },
+  "00041": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00285/00041.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00194": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00194.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00215": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00312/00215.wav",
+    "length": 6.04,
+    "regions": "southern"
+  },
+  "00113": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00055/00113.wav",
+    "length": 16.04,
+    "regions": "northern"
+  },
+  "00261": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00261.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00271": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00271.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00142": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00026/00142.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00066": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00066.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00236": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00236.wav",
+    "length": 13.64,
+    "regions": "southern"
+  },
+  "00282": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00135/00282.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00246": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00331/00246.wav",
+    "length": 10.04,
+    "regions": "southern"
+  },
+  "00152": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00046/00152.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00168": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00229/00168.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00301": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00301.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00191": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00118/00191.wav",
+    "length": 26.04,
+    "regions": "southern"
+  },
+  "00256": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00050/00256.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00149": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00327/00149.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00164": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00193/00164.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00357": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00357.wav",
+    "length": 12.04,
+    "regions": "northern"
+  },
+  "00211": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00211.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00212": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00066/00212.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00264": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00264.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00255": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00255.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00258": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00344/00258.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00343": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00343.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00396": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00396.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00223": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00161/00223.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00167": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00167.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00564": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00564.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00231": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00231.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00184": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00044/00184.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00332": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00332.wav",
+    "length": 13.24,
+    "regions": "northern"
+  },
+  "00306": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00306.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00124": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00187/00124.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00166": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00166.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00446": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00446.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00556": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00556.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00193": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00309/00193.wav",
+    "length": 8.04,
+    "regions": "northern"
+  },
+  "00336": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00336.wav",
+    "length": 21.64,
+    "regions": "northern"
+  },
+  "00200": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00125/00200.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00378": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00378.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00127": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00127.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00492": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00492.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00153": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00153.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00323": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00323.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00491": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00491.wav",
+    "length": 15.24,
+    "regions": "northern"
+  },
+  "00403": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00403.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00296": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00296.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00352": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00352.wav",
+    "length": 7.24,
+    "regions": "southern"
+  },
+  "00449": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00449.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00421": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00421.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00114": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00276/00114.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00321": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00321.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00279": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00279.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00471": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00471.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00308": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00308.wav",
+    "length": 1.24,
+    "regions": "southern"
+  },
+  "00298": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00298.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00252": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00252.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00189": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00070/00189.wav",
+    "length": 16.04,
+    "regions": "northern"
+  },
+  "00441": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00441.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00583": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00583.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00268": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00268.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00472": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00472.wav",
+    "length": 6.04,
+    "regions": "southern"
+  },
+  "00318": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00318.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00128": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00258/00128.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00404": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00404.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00245": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00245.wav",
+    "length": 4.84,
+    "regions": "southern"
+  },
+  "00239": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00239.wav",
+    "length": 8.44,
+    "regions": "northern"
+  },
+  "00371": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00371.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00274": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00274.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00240": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00165/00240.wav",
+    "length": 4.84,
+    "regions": "southern"
+  },
+  "00216": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00070/00216.wav",
+    "length": 17.24,
+    "regions": "northern"
+  },
+  "00516": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00516.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00313": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00313.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00580": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00580.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00383": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00383.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00368": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00368.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00202": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00135/00202.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00174": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00033/00174.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00397": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00397.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00220": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00066/00220.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00463": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00463.wav",
+    "length": 3.64,
+    "regions": "southern"
+  },
+  "00417": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00417.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00508": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00508.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00434": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00434.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00257": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00344/00257.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00458": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00458.wav",
+    "length": 18.44,
+    "regions": "northern"
+  },
+  "00324": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00324.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00262": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00312/00262.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00291": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00291.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00263": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00263.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00196": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00050/00196.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00490": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00490.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00567": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00567.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00450": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00450.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00348": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00348.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00330": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00330.wav",
+    "length": 8.44,
+    "regions": "northern"
+  },
+  "00320": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00320.wav",
+    "length": 4.44,
+    "regions": "southern"
+  },
+  "00438": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00438.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00408": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00408.wav",
+    "length": 8.84,
+    "regions": "southern"
+  },
+  "00507": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00507.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00422": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00422.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00237": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00237.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00546": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00546.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00143": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00208/00143.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00514": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00514.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00517": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00517.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00447": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00447.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00488": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00488.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00270": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00270.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00203": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00203.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00372": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00372.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00254": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00254.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00209": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00209.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00283": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00283.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00392": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00392.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00201": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00138/00201.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00248": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00282/00248.wav",
+    "length": 27.5911875,
+    "regions": "southern"
+  },
+  "00526": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00526.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00386": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00386.wav",
+    "length": 11.64,
+    "regions": "northern"
+  },
+  "00338": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00338.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00537": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00537.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00388": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00388.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00342": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00342.wav",
+    "length": 11.24,
+    "regions": "northern"
+  },
+  "00464": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00464.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00452": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00452.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00639": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00639.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00581": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00581.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00309": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00309.wav",
+    "length": 0.84,
+    "regions": "southern"
+  },
+  "00379": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00379.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00394": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00394.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00400": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00400.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00365": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00365.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00362": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00362.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00414": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00414.wav",
+    "length": 4.84,
+    "regions": "southern"
+  },
+  "00297": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00297.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00364": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00364.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00272": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00272.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00218": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00091/00218.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00273": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00273.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00326": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00326.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00190": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00135/00190.wav",
+    "length": 3.44,
+    "regions": "southern"
+  },
+  "00367": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00367.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00524": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00524.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00426": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00426.wav",
+    "length": 6.1925,
+    "regions": "northern"
+  },
+  "00412": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00412.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00359": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00359.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00436": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00436.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00390": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00390.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00311": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00311.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00513": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00513.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00451": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00451.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00569": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00569.wav",
+    "length": 18.04,
+    "regions": "northern"
+  },
+  "00370": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00370.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00345": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00345.wav",
+    "length": 16.04,
+    "regions": "southern"
+  },
+  "00399": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00399.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00358": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00358.wav",
+    "length": 9.24,
+    "regions": "southern"
+  },
+  "00523": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00523.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00290": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00290.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00355": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00355.wav",
+    "length": 8.04,
+    "regions": "southern"
+  },
+  "00504": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00504.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00294": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00192/00294.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00337": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00337.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00470": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00470.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00500": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00500.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00420": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00420.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00495": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00495.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00287": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00287.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00515": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00515.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00395": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00395.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00349": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00349.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00347": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00347.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00328": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00328.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00340": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00340.wav",
+    "length": 9.24,
+    "regions": "northern"
+  },
+  "00570": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00570.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00475": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00475.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00566": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00566.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00431": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00431.wav",
+    "length": 13.24,
+    "regions": "northern"
+  },
+  "00498": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00498.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00276": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00276.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00280": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00165/00280.wav",
+    "length": 9.24,
+    "regions": "southern"
+  },
+  "00375": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00375.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00356": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00356.wav",
+    "length": 9.24,
+    "regions": "northern"
+  },
+  "00477": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00477.wav",
+    "length": 18.4853125,
+    "regions": "northern"
+  },
+  "00249": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00249.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00265": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00265.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00502": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00502.wav",
+    "length": 18.84,
+    "regions": "northern"
+  },
+  "00293": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00293.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00387": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00387.wav",
+    "length": 11.24,
+    "regions": "northern"
+  },
+  "00557": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00557.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00299": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00299.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00597": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00597.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00467": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00467.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00317": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00317.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00600": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00600.wav",
+    "length": 10.84,
+    "regions": "northern"
+  },
+  "00331": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00331.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00334": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00334.wav",
+    "length": 4.44,
+    "regions": "southern"
+  },
+  "00430": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00430.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00300": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00300.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00366": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00366.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00466": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00466.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00433": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00433.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00405": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00405.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00554": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00554.wav",
+    "length": 8.04,
+    "regions": "northern"
+  },
+  "00277": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00277.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00275": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00248/00275.wav",
+    "length": 2.84,
+    "regions": "southern"
+  },
+  "00363": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00363.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00410": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00410.wav",
+    "length": 10.04,
+    "regions": "southern"
+  },
+  "00222": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00066/00222.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00610": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00610.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00544": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00544.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00409": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00409.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00413": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00413.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00346": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00346.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00286": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00286.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00486": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00486.wav",
+    "length": 8.04,
+    "regions": "southern"
+  },
+  "00415": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00415.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00339": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00037/00339.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00314": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00314.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00374": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00374.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00351": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00351.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00584": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00584.wav",
+    "length": 6.04,
+    "regions": "northern"
+  },
+  "00354": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00237/00354.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00552": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00552.wav",
+    "length": 8.84,
+    "regions": "northern"
+  },
+  "00424": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00424.wav",
+    "length": 33.1934375,
+    "regions": "northern"
+  },
+  "00587": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00587.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00382": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00382.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00501": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00501.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00480": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00480.wav",
+    "length": 9.24,
+    "regions": "southern"
+  },
+  "00461": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00461.wav",
+    "length": 6.04,
+    "regions": "southern"
+  },
+  "00550": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00550.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00406": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00406.wav",
+    "length": 3.24,
+    "regions": "southern"
+  },
+  "00573": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00573.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00369": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00369.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00418": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00418.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00402": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00402.wav",
+    "length": 7.64,
+    "regions": "southern"
+  },
+  "00529": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00529.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00401": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00401.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00435": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00435.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00448": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00448.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00341": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00341.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00609": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00609.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00481": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00481.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00619": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00619.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00497": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00497.wav",
+    "length": 22.04,
+    "regions": "northern"
+  },
+  "00416": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00416.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00319": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00165/00319.wav",
+    "length": 8.84,
+    "regions": "southern"
+  },
+  "00465": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00465.wav",
+    "length": 14.04,
+    "regions": "northern"
+  },
+  "00512": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00512.wav",
+    "length": 17.64,
+    "regions": "northern"
+  },
+  "00428": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00428.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00601": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00601.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00571": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00571.wav",
+    "length": 6.1415625,
+    "regions": "northern"
+  },
+  "00456": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00456.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00543": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00543.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00608": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00608.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00457": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00457.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00453": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00453.wav",
+    "length": 13.64,
+    "regions": "southern"
+  },
+  "00642": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00642.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00380": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00380.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00373": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00373.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00534": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00534.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00353": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00353.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00528": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00528.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00506": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00506.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00560": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00560.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00563": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00563.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00393": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00228/00393.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00479": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00479.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00462": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00462.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00509": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00509.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00459": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00459.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00398": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00398.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00553": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00553.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00478": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00478.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00551": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00551.wav",
+    "length": 36.44,
+    "regions": "northern"
+  },
+  "00614": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00614.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00407": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00407.wav",
+    "length": 5.24,
+    "regions": "southern"
+  },
+  "00432": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00432.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00535": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00535.wav",
+    "length": 16.44,
+    "regions": "northern"
+  },
+  "00419": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00419.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00454": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00454.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00389": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00389.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00391": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00391.wav",
+    "length": 4.04,
+    "regions": "southern"
+  },
+  "00440": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00440.wav",
+    "length": 20.84,
+    "regions": "northern"
+  },
+  "00527": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00527.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00496": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00496.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00586": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00586.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00304": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00304.wav",
+    "length": 1.24,
+    "regions": "northern"
+  },
+  "00531": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00531.wav",
+    "length": 14.44,
+    "regions": "northern"
+  },
+  "00474": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00474.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00503": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00503.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00444": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00444.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00548": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00548.wav",
+    "length": 13.24,
+    "regions": "northern"
+  },
+  "00615": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00615.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00634": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00634.wav",
+    "length": 8.84,
+    "regions": "northern"
+  },
+  "00499": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00499.wav",
+    "length": 7.24,
+    "regions": "northern"
+  },
+  "00545": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00545.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00333": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00302/00333.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00525": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00525.wav",
+    "length": 5.64,
+    "regions": "northern"
+  },
+  "00476": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00476.wav",
+    "length": 9.149875,
+    "regions": "northern"
+  },
+  "00425": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00425.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00443": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00443.wav",
+    "length": 6.84,
+    "regions": "southern"
+  },
+  "00574": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00574.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00411": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00411.wav",
+    "length": 5.64,
+    "regions": "southern"
+  },
+  "00625": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00625.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00635": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00635.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00445": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00445.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00562": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00562.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00626": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00626.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00511": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00511.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00427": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00427.wav",
+    "length": 2.44,
+    "regions": "southern"
+  },
+  "00628": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00628.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00530": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00530.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00521": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00521.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00576": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00576.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00329": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00214/00329.wav",
+    "length": 2.04,
+    "regions": "southern"
+  },
+  "00636": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00636.wav",
+    "length": 8.84,
+    "regions": "northern"
+  },
+  "00460": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00460.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00594": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00594.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00532": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00532.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00473": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00473.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00559": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00559.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00624": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00624.wav",
+    "length": 10.04,
+    "regions": "northern"
+  },
+  "00469": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00469.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00616": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00616.wav",
+    "length": 6.84,
+    "regions": "northern"
+  },
+  "00538": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00538.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00647": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00647.wav",
+    "length": 8.44,
+    "regions": "northern"
+  },
+  "00385": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00293/00385.wav",
+    "length": 1.64,
+    "regions": "northern"
+  },
+  "00579": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00579.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00547": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00547.wav",
+    "length": 18.04,
+    "regions": "northern"
+  },
+  "00612": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00612.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00442": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00332/00442.wav",
+    "length": 13.24,
+    "regions": "southern"
+  },
+  "00641": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00641.wav",
+    "length": 4.04,
+    "regions": "northern"
+  },
+  "00549": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00549.wav",
+    "length": 15.24,
+    "regions": "northern"
+  },
+  "00468": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00468.wav",
+    "length": 9.24,
+    "regions": "northern"
+  },
+  "00541": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00541.wav",
+    "length": 10.44,
+    "regions": "northern"
+  },
+  "00646": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00646.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00493": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00493.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00651": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00651.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00494": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00494.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00650": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00650.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00520": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00520.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00518": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00518.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00522": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00522.wav",
+    "length": 16.84,
+    "regions": "northern"
+  },
+  "00618": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00618.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00568": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00568.wav",
+    "length": 0.84,
+    "regions": "northern"
+  },
+  "00575": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00575.wav",
+    "length": 3.24,
+    "regions": "northern"
+  },
+  "00505": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00505.wav",
+    "length": 2.04,
+    "regions": "northern"
+  },
+  "00590": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00590.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00565": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00565.wav",
+    "length": 9.64,
+    "regions": "northern"
+  },
+  "00630": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00630.wav",
+    "length": 11.24,
+    "regions": "northern"
+  },
+  "00592": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00592.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00558": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00558.wav",
+    "length": 37.64,
+    "regions": "northern"
+  },
+  "00489": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00489.wav",
+    "length": 2.84,
+    "regions": "northern"
+  },
+  "00603": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00603.wav",
+    "length": 3.64,
+    "regions": "northern"
+  },
+  "00577": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00577.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00605": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00605.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00585": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00585.wav",
+    "length": 12.04,
+    "regions": "northern"
+  },
+  "00539": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00539.wav",
+    "length": 10.858875,
+    "regions": "northern"
+  },
+  "00602": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00602.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00637": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00637.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00598": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00598.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00542": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00542.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00536": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00348/00536.wav",
+    "length": 14.44,
+    "regions": "northern"
+  },
+  "00620": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00620.wav",
+    "length": 5.24,
+    "regions": "northern"
+  },
+  "00606": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00606.wav",
+    "length": 7.64,
+    "regions": "northern"
+  },
+  "00632": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00632.wav",
+    "length": 6.44,
+    "regions": "northern"
+  },
+  "00645": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00645.wav",
+    "length": 4.84,
+    "regions": "northern"
+  },
+  "00627": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00627.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00649": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00649.wav",
+    "length": 2.44,
+    "regions": "northern"
+  },
+  "00607": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00090/00607.wav",
+    "length": 4.44,
+    "regions": "northern"
+  },
+  "00487": {
+    "wav": "C:/Users/dangn/OneDrive/M\u00e1y t\u00ednh/VoicePytorch/vietnam_celeb_part_data/data/id00027/00487.wav",
+    "length": 1.64,
+    "regions": "northern"
+  }
+}

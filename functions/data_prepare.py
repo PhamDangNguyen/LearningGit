@@ -1,14 +1,3 @@
-"""
-Downloads and creates data manifest files for IEMOCAP
-(https://paperswithcode.com/dataset/iemocap).
-
-Authors:
- * Mirco Ravanelli, 2021
- * Modified by Pierre-Yves Yanni, 2021
- * Abdel Heba, 2021
- * Yingzhi Wang, 2022
-"""
-
 import os
 import re
 import json
@@ -23,6 +12,7 @@ NUMBER_UTT = 5531
 
 def prepare_data(
     data_original,
+    path_txt_info,
     save_json_train,
     save_json_valid,
     save_json_test,
@@ -64,31 +54,17 @@ def prepare_data(
     >>> data_original = '/path/to/iemocap/IEMOCAP_full_release'
     >>> prepare_data(data_original, 'train.json', 'valid.json', 'test.json')
     """
-    data_original = data_original + "/Session"
     # setting seeds for reproducible code.
     random.seed(seed)
 
-    # Check if this phase is already done (if so, skip it)
-    if skip(save_json_train, save_json_valid, save_json_test):
-        logger.info("Preparation completed in previous run, skipping.")
-        return
-
-    speaker_dict = transform_data(data_original)
-
-    if sum([len(value) for value in speaker_dict.values()]) != NUMBER_UTT:
-        raise ValueError(
-            "Error: Number of utterances is not 5531, please check your IEMOCAP folder"
-        )
+    info_dict = transform_data(data_original,path_txt_info)#tao tu dien info
 
     # List files and create manifest from list
     logger.info(
         f"Creating {save_json_train}, {save_json_valid}, and {save_json_test}"
     )
 
-    if different_speakers:
-        data_split = split_different_speakers(speaker_dict, test_spk_id)
-    else:
-        data_split = split_sets(speaker_dict, split_ratio)
+    data_split = split_sets(info_dict, split_ratio)#cat tu dien thanh 3 tap
 
     # Creating json files
     create_json(data_split["train"], save_json_train)
@@ -96,22 +72,24 @@ def prepare_data(
     create_json(data_split["test"], save_json_test)
 
 
-def create_json(wav_list, json_file):
+def create_json(wav_list, json_file_save):
     """
     Creates the json file given a list of wav information.
 
     Arguments
     ---------
     wav_list : list of list
-        The list of wav information (path, label, gender).
+        The list of wav information (path, label, sex).
     json_file : str
-        The path of the output json file
+        The path of the output json file (train, valid , test)
     """
+
+    
 
     json_dict = {}
     for obj in wav_list:
         wav_file = obj[0]
-        emo = obj[1]
+        regions = obj[1]
         # Read the signal (to retrieve duration in seconds)
         signal = read_audio(wav_file)
         duration = signal.shape[0] / SAMPLERATE
@@ -122,72 +100,23 @@ def create_json(wav_list, json_file):
         json_dict[uttid] = {
             "wav": wav_file,
             "length": duration,
-            "emo": emo,
+            "regions": regions,
         }
-
+        # print(json_dict[uttid])
     # Writing the dictionary to the json file
-    with open(json_file, mode="w") as json_f:
+    with open(json_file_save, mode="w") as json_f:
         json.dump(json_dict, json_f, indent=2)
 
-    logger.info(f"{json_file} successfully created!")
+    logger.info(f"{json_file_save} successfully created!")
 
 
 def skip(*filenames):
-    """
-    Detects if the data preparation has been already done.
-    If the preparation has been done, we can skip it.
-
-    Returns
-    -------
-    bool
-        if True, the preparation phase can be skipped.
-        if False, it must be done.
-    """
     for filename in filenames:
         if not os.path.isfile(filename):
             return False
     return True
 
-
-def split_different_speakers(speaker_dict, test_spk_id):
-    """Constructs train, validation and test sets that do not share common
-    speakers. There are two different speakers in each session. Train set is
-    constituted of 4 sessions (8 speakers), while validation set and test set
-    contain each 1 speaker. If test_spk_id is 1, then speaker 2 is selected
-    automatically for validation set, and training set contains other 8 speakers.
-    If test_spk_id is 2, then speaker 1 is selected for validation set.
-
-    Arguments
-    ---------
-    speaker_dict: dict
-        a dictionary of speaker id and its corresponding audio information
-    test_spk_id: int
-        Id of speaker used for test set, 10 speakers in total.
-        Session1 contains speaker 1&2, Session2 contains speaker 3&4, ...
-
-    Returns
-    ------
-    dictionary containing train, valid, and test splits.
-    """
-    data_split = {k: [] for k in ["train", "valid", "test"]}
-    data_split["test"].extend(speaker_dict[str(test_spk_id)])
-
-    # use the speaker in the same session as validation set
-    if test_spk_id % 2 == 0:
-        valid_spk_num = test_spk_id - 1
-    else:
-        valid_spk_num = test_spk_id + 1
-
-    data_split["valid"].extend(speaker_dict[str(valid_spk_num)])
-
-    for i in range(1, 11):
-        if i != valid_spk_num and i != test_spk_id:
-            data_split["train"].extend(speaker_dict[str(i)])
-
-    return data_split
-
-
-def split_sets(speaker_dict, split_ratio):
+def split_sets(data_dict, split_ratio):
     """Randomly splits the wav list into training, validation, and test lists.
     Note that a better approach is to make sure that all the classes have the
     same proportion of samples (e.g, spk01 should have 80% of samples in
@@ -208,12 +137,13 @@ def split_sets(speaker_dict, split_ratio):
 
     Returns
     ------
-    dictionary containing train, valid, and test splits.
+    dictionary split containing train, valid, and test splits.
     """
 
     wav_list = []
-    for key in speaker_dict.keys():
-        wav_list.extend(speaker_dict[key])
+    for key in data_dict.keys():
+        wav_list.append(data_dict[key][0])
+        # print(info[key][0][0])
 
     # Random shuffle of the list
     random.shuffle(wav_list)
@@ -231,14 +161,14 @@ def split_sets(speaker_dict, split_ratio):
     return data_split
 
 
-def transform_data(path_loadSession):
+# def transform_data(path_loadSession):
     """
     Create a dictionary that maps speaker id and corresponding wavs
 
     Arguments
     ---------
     path_loadSession : str
-        Path to the folder where the original IEMOCAP dataset is stored.
+        Path to the folder where the original dataset is stored.
 
     Example
     -------
@@ -271,71 +201,96 @@ def load_utterInfo(inputFile):
     # [START_TIME - END_TIME] TURN_NAME EMOTION [V, A, D]
     # [V, A, D] means [Valence, Arousal, Dominance]
     pattern = re.compile(
-        "[\[]*[0-9]*[.][0-9]*[ -]*[0-9]*[.][0-9]*[\]][\t][a-z0-9_]*[\t][a-z]{3}[\t][\[][0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[\]]",
+        "[/[]*[0-9]*[.][0-9]*[ -]*[0-9]*[.][0-9]*[/]][/t][a-z0-9_]*[/t][a-z]{3}[/t][/[][0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[/]]",
         re.IGNORECASE,
     )  # noqa
     with open(inputFile, "r") as myfile:
-        data = myfile.read().replace("\n", " ")
+        data = myfile.read().replace("/n", " ")
     result = pattern.findall(data)
     out = []
     for i in result:
         a = i.replace("[", "")
-        b = a.replace(" - ", "\t")
+        b = a.replace(" - ", "/t")
         c = b.replace("]", "")
-        x = c.replace(", ", "\t")
-        out.append(x.split("\t"))
+        x = c.replace(", ", "/t")
+        out.append(x.split("/t"))
     return out
 
 
-def load_session(pathSession):
-    """Load wav file from IEMOCAP session
-    and keep only the following 4 emotions:
-    [neural, happy, sad, anger].
+def load_in4(path_txt_info):
+    """
 
     Arguments
     ---------
         pathSession: str
-            Path folder of IEMOCAP session.
+            Path folder of text info speaker-metadata.tsv.
     Returns
     -------
         improvisedUtteranceList: list
-            List of improvised utterancefor IEMOCAP session.
+            List includes [Id_speaker, region, Sex].
     """
-    pathEmo = pathSession + "/dialog/EmoEvaluation/"
-    pathWavFolder = pathSession + "/sentences/wav/"
 
-    improvisedUtteranceList = []
-    for emoFile in [
-        f
-        for f in os.listdir(pathEmo)
-        if os.path.isfile(os.path.join(pathEmo, f))
-    ]:
-        for utterance in load_utterInfo(pathEmo + emoFile):
-            if (
-                (utterance[3] == "neu")
-                or (utterance[3] == "hap")
-                or (utterance[3] == "sad")
-                or (utterance[3] == "ang")
-                or (utterance[3] == "exc")
-            ):
-                path = (
-                    pathWavFolder
-                    + utterance[2][:-5]
-                    + "/"
-                    + utterance[2]
-                    + ".wav"
-                )
+    List_in4 = []
 
-                label = utterance[3]
-                if label == "exc":
-                    label = "hap"
+    
+    with open(path_txt_info, 'r') as f:
+        for i in f:
+            text_in4 = i.strip().split()
+            List_in4.append([text_in4[0],text_in4[1],text_in4[2]])
+    return List_in4
 
-                if emoFile[7] != "i" and utterance[2][7] == "s":
-                    improvisedUtteranceList.append(
-                        [path, label, utterance[2][18]]
-                    )
-                else:
-                    improvisedUtteranceList.append(
-                        [path, label, utterance[2][15]]
-                    )
-    return improvisedUtteranceList
+def transform_data(path_to_dataWav,path_txt_info):
+    """
+    Arguments
+    ---------
+        pathSession: str
+            Path folder's data wave
+            Path info meta.tsv
+    Returns
+    -------
+        improvisedUtteranceList: list
+           Array [Path_wav, region, Sex].
+           data_dict
+    """
+    # id_speaker, regions, Sex = load_in4(path_txt_info)
+    infor_wav = []
+
+    for id_speaker, regions, Sex in load_in4(path_txt_info):
+        for i in os.listdir(path_to_dataWav):
+            if str(i) == str(id_speaker):
+                for wav_name in os.listdir(os.path.join(path_to_dataWav,id_speaker)):
+                    path_wav = os.path.join(os.path.join(path_to_dataWav,id_speaker),wav_name)
+                    infor_wav.append([path_wav.replace("\\","/"),regions,Sex])
+
+    data_dict = {}
+
+    for idx in range(len(infor_wav)):
+        if idx not in data_dict:
+            data_dict[idx] = []
+        data_dict[idx].append(infor_wav[idx])
+
+    return data_dict
+    
+
+
+# if __name__ == "__main__":
+#     path_txt_info = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
+#     path_to_dataWav = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"
+    # load_in4(path_txt_info)
+    # info = transform_data(path_to_dataWav=path_to_dataWav,path_txt_info=path_txt_info)
+    # for key in info.keys():
+    #     print(info[key][0])
+
+    # data_split_info = split_sets(info,[80,10,10])
+    # for i in data_split_info["train"]:
+    #     print(i)
+    # print(len(data_split_info["train"]))
+    # print(len(data_split_info["test"]))
+    # print(len(data_split_info["valid"]))
+    # create_json(data_split_info["test"],json_file_save)
+    
+    # json_file_save_train = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json"
+    # json_file_save_test = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json"
+    # json_file_save_valid = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json"
+     
+    # prepare_data(path_to_dataWav,path_txt_info,json_file_save_train,json_file_save_valid,json_file_save_test)
