@@ -161,60 +161,6 @@ def split_sets(data_dict, split_ratio):
     return data_split
 
 
-# def transform_data(path_loadSession):
-    """
-    Create a dictionary that maps speaker id and corresponding wavs
-
-    Arguments
-    ---------
-    path_loadSession : str
-        Path to the folder where the original dataset is stored.
-
-    Example
-    -------
-    >>> data_original = '/path/to/iemocap/IEMOCAP_full_release/Session'
-    >>> data_transformed = '/path/to/iemocap/IEMOCAP_ahsn_leave-two-speaker-out'
-    >>> transform_data(data_original, data_transformed)
-    """
-
-    speaker_dict = {str(i + 1): [] for i in range(10)}
-
-    speaker_count = 0
-    for k in range(5):
-        session = load_session("%s%s" % (path_loadSession, k + 1))
-        for idx in range(len(session)):
-            if session[idx][2] == "F":
-                speaker_dict[str(speaker_count + 1)].append(session[idx])
-            else:
-                speaker_dict[str(speaker_count + 2)].append(session[idx])
-        speaker_count += 2
-
-    return speaker_dict
-
-
-def load_utterInfo(inputFile):
-    """
-    Load utterInfo from original IEMOCAP database
-    """
-
-    # this regx allow to create a list with:
-    # [START_TIME - END_TIME] TURN_NAME EMOTION [V, A, D]
-    # [V, A, D] means [Valence, Arousal, Dominance]
-    pattern = re.compile(
-        "[/[]*[0-9]*[.][0-9]*[ -]*[0-9]*[.][0-9]*[/]][/t][a-z0-9_]*[/t][a-z]{3}[/t][/[][0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[, ]+[0-9]*[.][0-9]*[/]]",
-        re.IGNORECASE,
-    )  # noqa
-    with open(inputFile, "r") as myfile:
-        data = myfile.read().replace("/n", " ")
-    result = pattern.findall(data)
-    out = []
-    for i in result:
-        a = i.replace("[", "")
-        b = a.replace(" - ", "/t")
-        c = b.replace("]", "")
-        x = c.replace(", ", "/t")
-        out.append(x.split("/t"))
-    return out
 
 
 def load_in4(path_txt_info):
@@ -273,9 +219,9 @@ def transform_data(path_to_dataWav,path_txt_info):
     
 
 
-# if __name__ == "__main__":
-#     path_txt_info = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
-#     path_to_dataWav = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"
+if __name__ == "__main__":
+    path_txt_info = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
+    path_to_dataWav = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"
     # load_in4(path_txt_info)
     # info = transform_data(path_to_dataWav=path_to_dataWav,path_txt_info=path_txt_info)
     # for key in info.keys():
@@ -289,8 +235,8 @@ def transform_data(path_to_dataWav,path_txt_info):
     # print(len(data_split_info["valid"]))
     # create_json(data_split_info["test"],json_file_save)
     
-    # json_file_save_train = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json"
-    # json_file_save_test = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json"
-    # json_file_save_valid = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json"
+    json_file_save_train = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json"
+    json_file_save_test = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json"
+    json_file_save_valid = "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json"
      
-    # prepare_data(path_to_dataWav,path_txt_info,json_file_save_train,json_file_save_valid,json_file_save_test)
+    prepare_data(path_to_dataWav,path_txt_info,json_file_save_train,json_file_save_valid,json_file_save_test)
