@@ -9,8 +9,8 @@ seed: 1993
 __set_seed: !apply:torch.manual_seed [!ref <seed>]
 
 # Dataset will be downloaded to the `data_original`
-data_folder: !PLACEHOLDER  # e.g., /path/to/IEMOCAP_full_release
-output_folder: !ref results/train_with_wav2vec2/<seed>
+data_folder: "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/data"  # e.g., /path/to/IEMOCAP_full_release
+output_folder: !ref C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/results/train_with_wav2vec2/<seed>
 save_folder: !ref <output_folder>/save
 train_log: !ref <output_folder>/train_log.txt
 
@@ -25,10 +25,14 @@ different_speakers: False
 # which speaker is used for test set, value from 1 to 10
 test_spk_id: 1
 
+#Path path_txt_info about metadata
+path_txt_info: "C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/vietnam_celeb_part_data/speaker-metadata.tsv"
+
+
 # Path where data manifest files will be stored
-train_annotation: !ref <output_folder>/train.json
-valid_annotation: !ref <output_folder>/valid.json
-test_annotation: !ref <output_folder>/test.json
+train_annotation: !ref C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/train.json
+valid_annotation: !ref C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/valid.json
+test_annotation: !ref C:/Users/dangn/OneDrive/Máy tính/VoicePytorch/Wave2vec_dialect_regions/data/json_file/test.json
 split_ratio: [80, 10, 10]
 skip_prep: False
 

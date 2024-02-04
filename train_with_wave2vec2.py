@@ -217,6 +217,10 @@ if __name__ == "__main__":
     # Reading command line arguments.
     hparams_file, run_opts, overrides = sb.parse_arguments(sys.argv[1:])
 
+    # for i in range(10):
+    #     print(hparams_file)
+
+
     # Initialize ddp (useful only for multi-GPU DDP training).
     sb.utils.distributed.ddp_init_group(run_opts)
 
@@ -224,63 +228,64 @@ if __name__ == "__main__":
     with open(hparams_file) as fin:
         hparams = load_hyperpyyaml(fin, overrides)
 
-    # Create experiment directory
-    sb.create_experiment_directory(
-        experiment_directory=hparams["output_folder"],
-        hyperparams_to_save=hparams_file,
-        overrides=overrides,
-    )
+    # # Create experiment directory
+    # sb.create_experiment_directory(
+    #     experiment_directory=hparams["output_folder"],
+    #     hyperparams_to_save=hparams_file,
+    #     overrides=overrides,
+    # )
 
-    from functions.data_prepare import prepare_data  # noqa E402
+    # from functions.data_prepare import prepare_data  # noqa E402
 
-    # Data preparation, to be run on only one process.
-    if not hparams["skip_prep"]:
-        sb.utils.distributed.run_on_main(
-            prepare_data,
-            kwargs={
-                "data_original": hparams["data_folder"],
-                "save_json_train": hparams["train_annotation"],
-                "save_json_valid": hparams["valid_annotation"],
-                "save_json_test": hparams["test_annotation"],
-                "split_ratio": hparams["split_ratio"],
-                "different_speakers": hparams["different_speakers"],
-                "test_spk_id": hparams["test_spk_id"],
-                "seed": hparams["seed"],
-            },
-        )
+    # # Data preparation, to be run on only one process.
+    # if not hparams["skip_prep"]:
+    #     sb.utils.distributed.run_on_main(
+    #         prepare_data,
+    #         kwargs={
+    #             "data_original": hparams["data_folder"],
+    #             "path_txt_info": hparams["path_txt_info"],
+    #             "save_json_train": hparams["train_annotation"],
+    #             "save_json_valid": hparams["valid_annotation"],
+    #             "save_json_test": hparams["test_annotation"],
+    #             "split_ratio": hparams["split_ratio"],
+    #             "different_speakers": hparams["different_speakers"],
+    #             "test_spk_id": hparams["test_spk_id"],
+    #             "seed": hparams["seed"],
+    #         },
+    #     )
 
-    # Create dataset objects "train", "valid", and "test".
-    datasets = dataio_prep(hparams)
+    # # Create dataset objects "train", "valid", and "test".
+    # datasets = dataio_prep(hparams)
 
-    hparams["wav2vec2"] = hparams["wav2vec2"].to(device=run_opts["device"])
-    # freeze the feature extractor part when unfreezing
-    if not hparams["freeze_wav2vec2"] and hparams["freeze_wav2vec2_conv"]:
-        hparams["wav2vec2"].model.feature_extractor._freeze_parameters()
+    # hparams["wav2vec2"] = hparams["wav2vec2"].to(device=run_opts["device"])
+    # # freeze the feature extractor part when unfreezing
+    # if not hparams["freeze_wav2vec2"] and hparams["freeze_wav2vec2_conv"]:
+    #     hparams["wav2vec2"].model.feature_extractor._freeze_parameters()
 
-    # Initialize the Brain object to prepare for mask training.
-    emo_id_brain = EmoIdBrain(
-        modules=hparams["modules"],
-        opt_class=hparams["opt_class"],
-        hparams=hparams,
-        run_opts=run_opts,
-        checkpointer=hparams["checkpointer"],
-    )
+    # # Initialize the Brain object to prepare for mask training.
+    # emo_id_brain = EmoIdBrain(
+    #     modules=hparams["modules"],
+    #     opt_class=hparams["opt_class"],
+    #     hparams=hparams,
+    #     run_opts=run_opts,
+    #     checkpointer=hparams["checkpointer"],
+    # )
 
-    # The `fit()` method iterates the training loop, calling the methods
-    # necessary to update the parameters of the model. Since all objects
-    # with changing state are managed by the Checkpointer, training can be
-    # stopped at any point, and will be resumed on next call.
-    emo_id_brain.fit(
-        epoch_counter=emo_id_brain.hparams.epoch_counter,
-        train_set=datasets["train"],
-        valid_set=datasets["valid"],
-        train_loader_kwargs=hparams["dataloader_options"],
-        valid_loader_kwargs=hparams["dataloader_options"],
-    )
+    # # The `fit()` method iterates the training loop, calling the methods
+    # # necessary to update the parameters of the model. Since all objects
+    # # with changing state are managed by the Checkpointer, training can be
+    # # stopped at any point, and will be resumed on next call.
+    # emo_id_brain.fit(
+    #     epoch_counter=emo_id_brain.hparams.epoch_counter,
+    #     train_set=datasets["train"],
+    #     valid_set=datasets["valid"],
+    #     train_loader_kwargs=hparams["dataloader_options"],
+    #     valid_loader_kwargs=hparams["dataloader_options"],
+    # )
 
-    # Load the best checkpoint for evaluation
-    test_stats = emo_id_brain.evaluate(
-        test_set=datasets["test"],
-        min_key="error_rate",
-        test_loader_kwargs=hparams["dataloader_options"],
-    )
+    # # Load the best checkpoint for evaluation
+    # test_stats = emo_id_brain.evaluate(
+    #     test_set=datasets["test"],
+    #     min_key="error_rate",
+    #     test_loader_kwargs=hparams["dataloader_options"],
+    # )
